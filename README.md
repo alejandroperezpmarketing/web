@@ -1,1 +1,1 @@
-# this is an template of HTML website in order to test git features
+# this is a template of HTML website in order to test git features
